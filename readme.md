@@ -1,7 +1,8 @@
 # 33 Concepts every JavaScript Developer Should Know
 
-![alt text](./assets/logo.jpeg "Logo Title Text 1") 
-
+<p align="center">
+  <img src="./assets/logo.jpeg" />
+</p>
 My studies related to the repository 33 Concepts every Javascript Developer Should know, on Github, which is based by Stephen Curtis namesake post.
 
 [Stephen Curtis Post](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
