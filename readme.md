@@ -6,6 +6,7 @@
 My studies related to the repository 33 Concepts every Javascript Developer Should know, on Github, which is based by Stephen Curtis namesake post.
 
 [Stephen Curtis Post](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
+
 [Github Repository](https://github.com/leonardomso/33-js-concepts)
 
 ## Table of Contents
