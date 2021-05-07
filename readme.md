@@ -11,9 +11,9 @@ My studies related to the repository 33 Concepts every Javascript Developer Shou
 
 ## Table of Contents
 
-1. **[Call Stack](./src/#1-call-stack.md)**
-2. **[Primitive Types](./src/#2-primitive-types.md)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
+1. **[Call Stack](./src/call-stack.md)**
+2. **[Primitive Types](./src/primitive-types.md)**
+3. **[Value Types and Reference Types](./src/value-types-and-reference-types.md)**
 4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
